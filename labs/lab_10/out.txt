@@ -1,0 +1,12 @@
+
+Puzzle is solved:
+1234
+3412
+2143
+4321
+
+Puzzle is solved:
+1432
+3214
+2143
+4321
